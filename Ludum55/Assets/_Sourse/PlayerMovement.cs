@@ -30,16 +30,20 @@ public class PlayerMovement : MonoBehaviour
         _movement.x = Input.GetAxisRaw("Horizontal");
         _movement.y = Input.GetAxisRaw("Vertical");
         CheckAnimation();
+        _rigidbody.MovePosition(_rigidbody.position + _movement * _speed * Time.fixedDeltaTime);
     }
 
     private void FixedUpdate()
     {
+        if (DialogueManager.GetInstance().DialogueIsActive)
+        {
+            _speed = 0;
+        }
+        else
+        {
+            _speed = 5;
+        }
         _rigidbody.MovePosition(_rigidbody.position + _movement * _speed * Time.fixedDeltaTime);
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Debug.Log("Enter");
     }
 
     private void CheckAnimation()

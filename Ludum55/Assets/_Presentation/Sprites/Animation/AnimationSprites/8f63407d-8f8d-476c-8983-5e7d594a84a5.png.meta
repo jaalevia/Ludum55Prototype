@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c644d1e7ff6b7eb4aab20b649531a70b
+guid: 475d2d08abc423d45aa7d6e0ee78b5f2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 12
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,7 +107,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Server
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -120,7 +120,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -136,106 +136,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Move-Raight_0
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 2
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 76
+        y: 3
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46a384b7696b671408bad12f014d29f4
-      internalID: -1509164222
+      spriteID: 9f92f5ab746add041a5ce2958fc846fa
+      internalID: 1846945511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Move-Raight_1
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_1
       rect:
         serializedVersion: 2
-        x: 22
-        y: 2
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 110
+        y: 3
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc5d5b0377688ef419dadf6494d5fa87
-      internalID: 1069570616
+      spriteID: 441e5cb485a045f46839e6e462bf4a08
+      internalID: 606362708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Move-Raight_2
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_2
       rect:
         serializedVersion: 2
-        x: 39
-        y: 2
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 149
+        y: 3
+        width: 30
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43159ce82b12c2340a60a9a67fcc48a2
-      internalID: -642256303
+      spriteID: 9cece6c129545164bb78a7303ae86f06
+      internalID: 2089541219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Move-Raight_3
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_3
       rect:
         serializedVersion: 2
-        x: 56
-        y: 2
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 185
+        y: 3
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e8abca4b695e404f8207b14b77cd188
-      internalID: 929902824
+      spriteID: 0d5691556e9231a4381ae49613447385
+      internalID: -699039000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Move-Raight_4
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_8
       rect:
         serializedVersion: 2
-        x: 73
-        y: 2
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 42
+        y: 3
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d35aa21fdb3ae6d41a22b2654d09ac95
-      internalID: 417976997
+      spriteID: d9bba8790c7a0074a9915af890ec2f3a
+      internalID: 1680182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522e63a45012aa40b0bd1e7952c0a6f
+      internalID: -399581883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a797ae6cac0b4ca6809bf3baa19a3
+      internalID: -1791520230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8f63407d-8f8d-476c-8983-5e7d594a84a5_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 32
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78abe63adf94749947f376417dd4b0
+      internalID: 1398060516
       vertices: []
       indices: 
       edges: []
@@ -251,11 +314,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Move-Raight_0: -1509164222
-      Move-Raight_1: 1069570616
-      Move-Raight_2: -642256303
-      Move-Raight_3: 929902824
-      Move-Raight_4: 417976997
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_0: 1846945511
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_1: 606362708
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_10: -519127149
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_11: -1791520230
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_12: 1398060516
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_2: 2089541219
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_3: -699039000
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_4: 848221772
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_5: 1323669651
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_6: 1088324312
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_7: -566751450
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_8: 1680182522
+      8f63407d-8f8d-476c-8983-5e7d594a84a5_9: -399581883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
