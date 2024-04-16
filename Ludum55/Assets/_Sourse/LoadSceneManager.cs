@@ -6,11 +6,6 @@ using UnityEngine.SceneManagement;
 public class LoadSceneManager : MonoBehaviour
 {
     public Animator Animator;
-
-    private void Start()
-    {
-        FindObjectOfType<AudioManager>().Play("MainMenuTheme");
-    }
     
     public void Fade()
     {
