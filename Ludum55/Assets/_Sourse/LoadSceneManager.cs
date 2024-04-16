@@ -20,8 +20,4 @@ public class LoadSceneManager : MonoBehaviour
     {
         SceneManager.LoadScene("GameScene");
     }
-    public void ButtonPressedSound()
-    {
-        FindObjectOfType<AudioManager>().Play("ButtonPress");
-    }
 }
