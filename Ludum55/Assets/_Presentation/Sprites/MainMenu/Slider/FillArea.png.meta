@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a0bcdef66824ded40b1aad4c2d524821
+guid: a3148273f61b7c84688e078431d5069f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -49,7 +49,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 16, y: 1, z: 43, w: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -119,17 +119,31 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u0431\u0435\u0433\u0443\u043D\u043E\u043A \u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0443_0"
+      name: "\u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u044F\u044F \u0447\u0430\u0441\u0442\u044C
+        \u0441\u0432\u0435\u0442\u043B\u0430\u044F_0"
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1
-        width: 7
-        height: 12
+        x: 9
+        y: 4
+        width: 48
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,8 +151,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dc6fed411689e94489d8e640b4f8851
-      internalID: 1839699268
+      spriteID: 0dba7ae7844ca1d4d9af1680e487bfa3
+      internalID: -242604561
       vertices: []
       indices: 
       edges: []
@@ -147,14 +161,14 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u0431\u0435\u0433\u0443\u043D\u043E\u043A \u043D\u0430 \u043C\u0443\u0437\u044B\u043A\u0443_0": 1839699268
+      "\u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u044F\u044F \u0447\u0430\u0441\u0442\u044C \u0441\u0432\u0435\u0442\u043B\u0430\u044F_0": -242604561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
