@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,7 +134,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Benches_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 276
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaa79e1a0069b0418268b06f41dd98a
+      internalID: -1611151141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 276
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4fdeda262f00a48bb483556ced02b5
+      internalID: 1949672607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd840c42a176bee40ba66f23f8d24f6d
+      internalID: 1852224825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3f5c83372903468fd4ee0a5889c6d
+      internalID: 1927368113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cabb382e4e29f14289f56cdd9f0bda7
+      internalID: 1330658556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 161
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d971744c0c904b9ad129f3f1a1730
+      internalID: -1823643945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bba2e45a314f2408252d60b8c73a28
+      internalID: 395404455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 62
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c86c0ffde7e04288eeadc82cbdc4a
+      internalID: -2098450339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7781a9b92af66647933f6751d89c831
+      internalID: 2067212153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benches_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 6
+        width: 178
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63cd1457cef7948b4d410a65bcecb3
+      internalID: 192883839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +355,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Benches_0: -1611151141
+      Benches_1: 1949672607
+      Benches_2: 1852224825
+      Benches_3: 1927368113
+      Benches_4: 1330658556
+      Benches_5: -1823643945
+      Benches_6: 395404455
+      Benches_7: -2098450339
+      Benches_8: 2067212153
+      Benches_9: 192883839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
