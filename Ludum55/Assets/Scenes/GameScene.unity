@@ -1649,7 +1649,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b494bce430563fc49ae006672034abc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sounds: []
+  sounds:
+  - name: CalmCat
+    clip: {fileID: 8300000, guid: 45544e092e2a5174e8d682b10e309a4b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    sourse: {fileID: 0}
+    group: {fileID: 24300002, guid: 398ec054bf59ceb46b0cf112e20398fe, type: 2}
 --- !u!4 &509629049
 Transform:
   m_ObjectHideFlags: 0

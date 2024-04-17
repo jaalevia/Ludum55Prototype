@@ -128,6 +128,7 @@ public class DialogueManager : MonoBehaviour
             }
 
             _dialogueTextDisplay.text += letter;
+            FindObjectOfType<AudioManager>().Play("CalmCat");
             yield return new WaitForSeconds(_typingSpeed);
         }
         _canContinueToNextLine = true;
