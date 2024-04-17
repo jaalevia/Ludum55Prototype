@@ -44,10 +44,12 @@ public class Interaction : MonoBehaviour
                 if (TypeOfObject == 1)
                 {
                     _loseTestScript.LosePoints += 1;
+                    Destroy(this);
                 }
                 else
                 { 
                     _loseTestScript.WinPoints += 1;
+                    Destroy(this);
                 }
                 Destroy(_objectToSpawn[TypeOfObject]);
                 isPicked = true;
