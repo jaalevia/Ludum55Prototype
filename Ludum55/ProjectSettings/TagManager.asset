@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - TestLayer
+  - Player
   - Water
   - UI
   - ObjectToPickUp
